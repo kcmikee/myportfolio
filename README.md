@@ -1,5 +1,5 @@
 ## How to use
-![Netlify](https://esenwa.netlify.com)
+![Preview](https://github.com/kcmikee/myportfolio/blob/master/public/images/gitimg.png)
 1. Clone/Download the repo.
 2. Run `npm install`.
 3. Change the values in `src/resumeData.js` to suit your use-case.
