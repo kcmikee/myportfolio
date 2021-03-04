@@ -1,5 +1,5 @@
 ## How to use
-![Preview](https://esenwa.netlify.com)
+![Netlify](https://esenwa.netlify.com)
 1. Clone/Download the repo.
 2. Run `npm install`.
 3. Change the values in `src/resumeData.js` to suit your use-case.
